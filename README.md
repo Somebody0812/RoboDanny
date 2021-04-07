@@ -1,3 +1,6 @@
+## Important Note
+This is not my Bot and this code was not written by me. All credits go to github.com/rapptz/RoboDanny . This is simply a fork.
+
 ## R. Danny
 
 A personal bot that runs on Discord.
